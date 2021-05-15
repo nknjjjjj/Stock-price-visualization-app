@@ -49,6 +49,7 @@ try:
         'microsoft': 'MSFT',
         'netflix': 'NFLX',
         'amazon': 'AMZN',
+        'VF_corporation': 'VFC',
     }
 
     df = get_data(days, tickers)
